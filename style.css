@@ -1,0 +1,25 @@
+.box{
+    /* want to be able to animate the postion so set as relative */
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 4px;
+    display: inline-block;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
